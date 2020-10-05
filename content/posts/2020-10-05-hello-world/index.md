@@ -1,9 +1,9 @@
 ---
-title: My first post using Novela by Narative
-author: Dennis Brotzky
-date: 2019-04-30
+title: Hello World
+author: Josh Miller
+date: 2020-10-05
 hero: ./images/hero.jpg
-excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
+excerpt: With the growing community interest in Gatsby, I decided to deploy a static site so I could learn more about React and modern headless CMS tech.
 ---
 
 My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.

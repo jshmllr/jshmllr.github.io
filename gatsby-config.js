@@ -55,8 +55,20 @@ module.exports = {
       },
     },
     {
+      resolve: '@narative/gatsby-theme-novela',
+      options: {
+        authorsPage: true,
+      },
+    },
+    {
       resolve: `gatsby-plugin-react-helmet`,
       options: {
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-66181337-1",
       },
     },
     {
