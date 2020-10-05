@@ -1,33 +1,30 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `JshMllr - The Journal Portfolio of Josh Miller`,
+    name: `Josh Miller`,
+    siteUrl: `https://jshmllr.com`,
+    description: `Josh Miller is a Tennessee user interface designer currently working with the best in the digital journalism realm while freelancing and taking the occasional hiking adventure.`,
+
     hero: {
       heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
       maxWidth: 652,
     },
     social: [
       {
+        name: `linkedin`,
+        url: `https://www.linkedin.com/in/jshmllr/`,
+      },
+      {
         name: `twitter`,
         url: `https://twitter.com/narative`,
       },
       {
-        name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://instagram.com/jshmllr`,
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://dribbble.com/jshmllr`,
       },
     ],
   },
@@ -48,13 +45,18 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Portfolio by Josh`,
+        short_name: `Josh Miller`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
         icon: `src/assets/favicon.png`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-react-helmet`,
+      options: {
       },
     },
     {
