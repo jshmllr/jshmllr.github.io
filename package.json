@@ -5,7 +5,6 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "deploy:github": "npm run build && node ./scripts/deploy-github",
     "dev": "gatsby develop",
     "clean": "gatsby clean"
   },
