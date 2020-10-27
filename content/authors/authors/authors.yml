@@ -1,0 +1,10 @@
+- name: Josh Miller
+  bio: |
+    Designer. Prototyping. Currently UI | UX with the USA TODAY Network's Storytelling Studio.
+  avatar: ./avatars/josh-miller.jpg
+  social:
+  - url: https://medium.com/@jshmllr
+  - url: https://twitter.com/_jshmllr
+  - url: https://github.com/jshmllr
+  - url: https://unsplash.com/jshmllr
+  featured: true
