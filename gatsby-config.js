@@ -2,10 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `JshMllr - The Website of Josh Miller.`,
     name: `JshMllr | Portfolio & Journal`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    siteUrl: `https://jshmllr.com`,
+    description: `Design plus code better known on the internet as JshMllr`,
     hero: {
-      heading: `My name is Josh, normally found on the Internet as JshMllr.`,
+      heading: `My name is Josh, normally found on the internet as JshMllr.`,
       maxWidth: 652,
     },
     social: [
@@ -60,6 +60,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-66181337-1",
       },
     },
   ],
