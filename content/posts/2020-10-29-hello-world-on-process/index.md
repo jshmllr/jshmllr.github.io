@@ -1,12 +1,12 @@
 ---
-title: Why I chose Gatsby
+title: Conquering fear via process
 author: Josh Miller
-date: 2020-10-27
+date: 2020-10-29
 hero: ./images/hero.jpg
-excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
+excerpt: Hello world. Is this thing on?
 ---
 
-My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
+My first post using `@narative/gatsby-theme-novela`. I chose it due to the ease of use and simplicity albeit the headache of using `gh-pages` and hosting on Github.
 
 ## Headers
 
@@ -14,7 +14,7 @@ My first post using `@narative/gatsby-theme-novela`. Novela is built by the team
 
 It is recommended to NOT use H1s as it is reserved for the article heading. Any H1 is set as an H2.
 
-## H2
+## It's good to have a personal space on the Internet and this is an H2.
 
 ### H3
 
