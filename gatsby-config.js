@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://jshmllr.com`,
     description: `Design plus code better known on the internet as JshMllr`,
     hero: {
-      heading: `My name is Josh, normally found on the internet as JshMllr.`,
+      heading: `Josh Miller is a digital designer prototyping great products & brands.`,
       maxWidth: 652,
     },
     social: [
@@ -14,20 +14,16 @@ module.exports = {
         url: `https://twitter.com/_jshmllr`,
       },
       {
-        name: `github`,
-        url: `https://github.com/jshmllr`,
-      },
-      {
         name: `instagram`,
         url: `https://instagram.com/jshmllr`,
       },
       {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/in/jshmllr/`,
+        name: `github`,
+        url: `https://github.com/jshmllr`,
       },
       {
-        name: `dribbble`,
-        url: `https://dribbble.com/jshmllr`,
+        name: `linkedin`,
+        url: `https://www.linkedin.com/in/jshmllr/`,
       },
     ],
   },
