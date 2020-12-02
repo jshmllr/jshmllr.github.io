@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://jshmllr.com`,
     description: `Design plus code better known on the internet as JshMllr`,
     hero: {
-      heading: `Josh Miller is a digital designer prototyping new products & experiences.`,
+      heading: `Your process isn't the same without a leader in product design and prototyping. I can help with that.`,
       maxWidth: 652,
     },
     social: [
