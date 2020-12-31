@@ -3,7 +3,7 @@ title: I didn't go to art school.
 author: Josh Miller
 date: 2020-11-05
 hero: ./images/hero.jpg
-excerpt: I didn't go to art school, and that's okay.
+excerpt: An unconventional résumé is okay.
 secret: true
 ---
 
@@ -37,4 +37,3 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     alt="The end article signature of Josh Miller"
   />
 </div>
-
