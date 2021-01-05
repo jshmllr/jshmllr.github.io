@@ -4,6 +4,7 @@ author: Josh Miller
 date: 2020-12-02
 hero: ./images/hero.jpg
 excerpt: Hello world. Is this thing on?
+slug: portfolio-product-prototyping-ux-design-two
 ---
 
 ---

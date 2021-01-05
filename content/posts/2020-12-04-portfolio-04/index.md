@@ -1,19 +1,26 @@
 ---
-title: Portfolio - Explainers
+title: Explainers, a portfolio piece on failure.
 author: Josh Miller
 date: 2020-12-04
 hero: ./images/hero.jpg
-excerpt: On failure and the framework that once was.
+excerpt: A visual storytelling framework that once was.
+slug: explainers-portfolio-product-prototyping-ux-design
 ---
 
-## How might we build a more visual platform that showcases our network wide photojournalism for the USA TODAY Network?
+The current solution for visual explainers in the newsroom consisted of  custom developed off-platform embeds 
+
+## How might we create a high-impact visual storytelling format that supports our journalism for the USA TODAY Network?
+
+
+Explainers are a high-impact visual storytelling format that's independent from traditional stories or galleries. It's a standalone, web-based experience that works best with great visuals and short, punchy text.
 
 Product Design, Interaction Design, Prototyping
 
-- Goals: Facilitate meaningful relationships in Medium’s ecosystem. Realign retention.
-- Team: Multiple small product teams
-- Role: Product Designer, Design Prototyper – one of three designers.
-- Areas of focus: Concepting for home, Group navigation, Alerts tab and You tab
+- Goals: Provide a solution for the newsrooms to generate high-impact visual stories, enrich the reading experience, retention efforts by measuring recirculation and depth of engagement
+- Team: Storytelling Studio, USA Today Journalists, USA Today Graphics
+- Role: Product Designer, Design Prototyper – one of two designers.
+- Areas of focus: Visual design, prototyping, user testing, back-end visual cms authoring design
+
 
 ## Background
 
@@ -29,7 +36,14 @@ this tool will leverage the Universal Web framework on the display side
 this tool is designed to be used with or without a designer
 this tool is an MVP that will be iterated on over time
 
-## The Process
+## The Process and plan
+
+Starting with templates (five)
+Prototyping
+Developing a user testing plan
+
+### Bespoke authoring cms
+
 We had user testing
 We tracked iterations and prepared the MVP for progressive enhancement
 

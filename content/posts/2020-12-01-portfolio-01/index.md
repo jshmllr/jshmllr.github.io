@@ -3,7 +3,8 @@ title: Portfolio - In-Depth Storytelling
 author: Josh Miller
 date: 2020-12-01
 hero: ./images/hero.jpg
-# excerpt: On iterative product design and digital transformation
+excerpt: On iterative product design and digital transformation
+slug: portfolio-product-prototyping-ux-design-one
 ---
 
 ## It's 
