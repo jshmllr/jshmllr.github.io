@@ -12,6 +12,7 @@ When it comes to testing, validation, and shipping someting your users, a leader
 ## Leadership in prototyping
 A leader in prototyping comes alongside your team to generate ideas and refine existing ones. Not only that, but throughout the design process you'll identify user touch-points with more clarity beyond static documentation. Prototypes inspire your organization giving your team a platform to approach challenges differently and add new perspective and dimension to ideas.
 
+
 ## Prototyping is fun
 While it may seem that your team's focus is on the results of said prototype, making ideas visual, tactile, and experiential creates a sense of play. When we play, our minds are allowed to wander stimulating higher quality conversation. It's an invisible result of taking messy and hectic ideas to life—the same type of result that occurs when children are allowed free thinking in play areas.
 
@@ -41,7 +42,7 @@ Another example is a type-scale calculator with Sketch that scaled out thousand 
 - [Framer on YouTube](https://www.youtube.com/c/FramerDesign/playlists)
 
 ---
-2020 Josh Miller
+by Josh Miller
 
 <div className="Image__Small">
   <img
