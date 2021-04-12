@@ -1,5 +1,5 @@
 ---
-title: How In-Depth storytelling transformed the USA TODAY Network's digital journalism 
+title: How In-Depth storytelling transforms the USA TODAY Network's digital journalism 
 author: Josh Miller
 date: 2020-12-01
 hero: ./images/hero.jpg

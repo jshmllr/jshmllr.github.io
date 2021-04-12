@@ -7,17 +7,25 @@ excerpt: Test early and often to reduce risks and bring ideas into the world fas
 slug: leadership-in-prototyping-product-design-and-ux
 ---
 
+## How might we tell a better short story that's centered around photos and videos in an immersive digital experience?
+
+- **Timeline**:
+- **Goals**:
+- **Team**:
+- **Role**:
+- **Area of Focus**:    
+
+---
+## Highlighting storytelling
 When it comes to testing, validation, and shipping someting your users, a leader in prototyping might be what you need for your team regarding to reduce risks, overall costs, and bring fresh ideas into the world faster. In the prototyping process, it doesn't matter if you're creating rough mockups or quickly getting to high-fidelity, you'll be able to iterate early and often to align your team and stakeholders.
 
 ## Leadership in prototyping
 A leader in prototyping comes alongside your team to generate ideas and refine existing ones. Not only that, but throughout the design process you'll identify user touch-points with more clarity beyond static documentation. Prototypes inspire your organization giving your team a platform to approach challenges differently and add new perspective and dimension to ideas.
 
-
 ## Prototyping is fun
 While it may seem that your team's focus is on the results of said prototype, making ideas visual, tactile, and experiential creates a sense of play. When we play, our minds are allowed to wander stimulating higher quality conversation. It's an invisible result of taking messy and hectic ideas to life—the same type of result that occurs when children are allowed free thinking in play areas.
 
 Prototyping isn't the first step in the human centered design process, as it is usually divergent by nature; but, design technologists (UX Architects) give your organization more opportunity to discover new ideas through prototyping even though many may be a throw away ideas. The value in the research that occurs may surface itself in later projects or iterations of your product. So, let your imagination run wild.
-
 
 > If the relationship between designers and the engineers executing is rocky, it doesn't have to be.
 
@@ -43,12 +51,4 @@ Another example is a type-scale calculator with Sketch that scaled out thousand 
 
 ---
 by Josh Miller
-
-<div className="Image__Small">
-  <img
-    src="./images/signature.svg"
-    title="Logo Signature Josh Miller"
-    alt="The end article signature of Josh Miller"
-  />
-</div>
 

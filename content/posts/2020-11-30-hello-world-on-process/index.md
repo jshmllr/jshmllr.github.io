@@ -1,10 +1,10 @@
 ---
-title: Conquering fear via process
+title: On Process
 author: Josh Miller
-date: 2020-10-29
+date: 2021-03-28
 hero: ./images/hero.jpg
 excerpt: Hello world. Is this thing on?
-slug: conquering-fear-in-the-design-process
+slug: conquering-the-design-process
 ---
 
 My first post using `@narative/gatsby-theme-novela`. I chose it due to the ease of use and simplicity albeit the headache of using `gh-pages` and hosting on Github.

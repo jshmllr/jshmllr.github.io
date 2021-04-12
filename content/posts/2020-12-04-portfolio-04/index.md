@@ -7,6 +7,17 @@ excerpt: A visual storytelling framework that once was.
 slug: explainers-portfolio-product-prototyping-ux-design
 ---
 
+## How might we tell a better short story that's centered around photos and videos in an immersive digital experience?
+
+- **Timeline**:
+- **Goals**:
+- **Team**:
+- **Role**:
+- **Area of Focus**:    
+
+---
+## Highlighting storytelling
+
 The current solution for visual explainers in the newsroom consisted of  custom developed off-platform embeds 
 
 ## How might we create a high-impact visual storytelling format that supports our journalism for the USA TODAY Network?
