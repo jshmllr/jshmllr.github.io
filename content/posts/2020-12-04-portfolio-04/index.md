@@ -22,7 +22,6 @@ The current solution for visual explainers in the newsroom consisted of  custom 
 
 ## How might we create a high-impact visual storytelling format that supports our journalism for the USA TODAY Network?
 
-
 Explainers are a high-impact visual storytelling format that's independent from traditional stories or galleries. It's a standalone, web-based experience that works best with great visuals and short, punchy text.
 
 Product Design, Interaction Design, Prototyping
@@ -52,6 +51,27 @@ this tool is an MVP that will be iterated on over time
 Starting with templates (five)
 Prototyping
 Developing a user testing plan
+
+## Demonstration
+
+An example of a surgery center explainer by our newsroom
+<video controls width="250">
+
+    <source src="/videos/explainer-demo-2.webm"
+            type="video/webm">
+
+    <source src="/videos/explainer-demo-2.webm.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+An example of a Marvel Explainer by our graphics department
+<div className="Video">
+  <img
+    src="./videos/explainer-demo.webm"
+  />
+</div>
 
 ### Bespoke authoring cms
 

@@ -4,7 +4,6 @@ author: Josh Miller
 date: 2021-03-28
 hero: ./images/hero.jpg
 excerpt: All I ever learned thanks to Google, Medium, & YouTube
-secret: true
 ---
 
 ---
@@ -21,7 +20,6 @@ Theory & Frameworks:
 
 Design Realms:
 - Interface Lovers is a magazine featuring designers with diverse personal and industry backgrounds: https://www.loversmagazine.com
-- 
 
 
 Psychology & Awareness
