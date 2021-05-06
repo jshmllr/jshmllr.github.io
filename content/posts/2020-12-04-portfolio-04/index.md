@@ -94,12 +94,5 @@ But, this wasn't a complete failure; because now we have an opportunity to creat
 See that case study here: 
 
 ---
-2020 Josh Miller
-
-<div className="Image__Small">
-  <img
-    src="./images/signature.svg"
-    title="Logo Signature Josh Miller"
-    alt="The end article signature of Josh Miller"
-  />
-</div>
+Thanks for reading! 
+Get in touch @ [joshua@jshmllr.com](mailto:joshua@jshmllr.com)

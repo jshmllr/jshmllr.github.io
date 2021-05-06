@@ -39,3 +39,6 @@ It has survived not only five centuries, but also the leap into electronic types
 - Item
 - Item
 
+---
+Thanks for reading! 
+Get in touch @ [joshua@jshmllr.com](mailto:joshua@jshmllr.com)

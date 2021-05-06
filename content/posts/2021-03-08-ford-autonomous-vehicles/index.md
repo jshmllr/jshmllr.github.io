@@ -46,7 +46,8 @@ So what does that mean for Ford and autonomous delivery?
 Autonomous delivery has to have the same kind of transparency in order for customers to actually trust it. What makes me trust autonomous delivery over door dash or any other delivery service that I could have? In fact what makes me trust autonomous delivery over just going outside and getting something myself? Well it’s the same kind of transparency that I would have if I were to call someone over the phone and I would say hey something is wrong with my order can you fix it?
 
 ---
-2021 Josh Miller
+Thanks for reading! 
+Get in touch @ [joshua@jshmllr.com](mailto:joshua@jshmllr.com)
 
 
 

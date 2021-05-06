@@ -50,5 +50,6 @@ Another example is a type-scale calculator with Sketch that scaled out thousand 
 - [Framer on YouTube](https://www.youtube.com/c/FramerDesign/playlists)
 
 ---
-by Josh Miller
+Thanks for reading! 
+Get in touch @ [joshua@jshmllr.com](mailto:joshua@jshmllr.com)
 

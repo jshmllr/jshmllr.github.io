@@ -27,3 +27,7 @@ You’ll now have the opportunity to answer five whys, how, when, why, where, wh
 
 ### FURTHER READING: 
 - When Coffee & Kale Compete https://jtbd.info
+
+---
+Thanks for reading! 
+Get in touch @ [joshua@jshmllr.com](mailto:joshua@jshmllr.com)

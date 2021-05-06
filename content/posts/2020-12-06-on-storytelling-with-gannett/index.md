@@ -1,5 +1,5 @@
 ---
-title:  Gannett
+title: Gannett
 author: Josh Miller
 date: 2020-12-01
 hero: ./images/hero.jpg
@@ -18,13 +18,5 @@ Our small “blue sky” growth team to explores how we might foster increased a
 In my final year at the company, I joined the Web Infrastructure team as a Design Engineer to work on Design Systems. I had spent all my tenure at Dropbox maintaining a suite of design tools, so was able to provide historical knowledge and engineering principles to address inconsistencies in both the design and implementation of many product surfaces. The result of my work was Scooter, an open-source (S)CSS framework and design system adopted by several product teams to speed up their work.
 
 ---
-2020 Josh Miller
-
-<div className="Image__Small">
-  <img
-    src="./images/signature.svg"
-    title="Logo Signature Josh Miller"
-    alt="The end article signature of Josh Miller"
-  />
-</div>
-
+Thanks for reading! 
+Get in touch @ [joshua@jshmllr.com](mailto:joshua@jshmllr.com)

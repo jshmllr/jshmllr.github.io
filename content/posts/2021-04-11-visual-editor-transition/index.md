@@ -19,6 +19,13 @@ The most popular page next to the new page is our In-Depth Editor where producer
 
 --
 In its current state it contains a few key areas for manipulation a configuration. 
+<div className="Image__Small">
+  <img
+    src="./images/screenshot.jpg"
+    title="Storytelling Studio"
+    alt="An application screenshot"
+  />
+</div>
 - Global navigation
 - Left-Sidebar including:
 	- Configuration Text Editor
@@ -50,4 +57,5 @@ The toolbar currently provides primary and secondary actions including
 By combining the three open buttons into one split button, we'll  immediately see more screen real estate.
 
 ---
-by Josh Miller
+Thanks for reading! 
+Get in touch @ [joshua@jshmllr.com](mailto:joshua@jshmllr.com)

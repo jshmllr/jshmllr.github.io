@@ -1,5 +1,5 @@
 ---
-title: Designers, lead from the back
+title: Leading from the back
 author: Josh Miller
 date: 2021-04-10
 hero: ./images/hero.jpg
@@ -8,7 +8,7 @@ slug: lead-from-the-back-product-design-and-ux
 secret: false
 ---
 
-## The leader on a soccer team is the goalie.
+## Be the goalie
 It might not be apparent from the uproar of the crowd when a forward scores a goal, but yes, the man or woman standing in the back—who might not even be a captain—is the leader. Take retired U.S. goalie Tim Howard for instance. Remember that time [they lost 2-1 against Belgium](https://fivethirtyeight.com/features/tim-howard-lost-but-he-just-had-the-best-match-of-the-world-cup/); however, Tim gave the world the best game of the entire World Cup? Howard allowed only two goals to be scored out of the 18 possible shots giving him statistically one of the best games ever as a goalie. 
 
 <div className="Image__Small">
@@ -34,13 +34,6 @@ Understand their perspective
 Understand where they are coming from
 
 ---
-2020 Josh Miller
-
-<div className="Image__Small">
-  <img
-    src="./images/signature.svg"
-    title="Logo Signature Josh Miller"
-    alt="The end article signature of Josh Miller"
-  />
-</div>
+Thanks for reading! 
+Get in touch @ [joshua@jshmllr.com](mailto:joshua@jshmllr.com)
 

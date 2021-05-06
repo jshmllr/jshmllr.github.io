@@ -29,13 +29,5 @@ Psychology & Awareness
 Lastly, study the niche you're working in. If you're wanting to design software in the finance world, be in the finance world and understand customer behavior, business models, how businesses in that industry make money, and the overall history of the industry. 
 
 ---
-2021 Josh Miller
-
-<div className="Image__Small">
-  <img
-    src="./images/signature.svg"
-    title="Logo Signature Josh Miller"
-    alt="The end article signature of Josh Miller"
-  />
-</div>
-
+Thanks for reading! 
+Get in touch @ [joshua@jshmllr.com](mailto:joshua@jshmllr.com)
