@@ -4,6 +4,7 @@ author: Josh Miller
 date: 2021-03-28
 hero: ./images/hero.jpg
 excerpt: All I ever learned thanks to Google, Medium, & YouTube
+secret: true
 ---
 
 ---

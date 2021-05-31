@@ -5,6 +5,7 @@ date: 2020-12-01
 hero: ./images/hero.jpg
 excerpt: On iterative framework design and digital transformation
 slug: portfolio-product-prototyping-ux-design-one
+secret: true
 ---
 
 ## How might we...?

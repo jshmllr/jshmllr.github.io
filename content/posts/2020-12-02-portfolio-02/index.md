@@ -5,6 +5,7 @@ date: 2020-12-02
 hero: ./images/hero.jpg
 excerpt: Hello world. Is this thing on?
 slug: portfolio-product-prototyping-ux-design-two
+secret: true
 ---
 
 ## How might we provide a better way to collect items in a list?

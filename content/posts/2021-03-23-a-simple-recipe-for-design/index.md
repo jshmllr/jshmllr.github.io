@@ -4,7 +4,7 @@ author: Josh Miller
 date: 2020-11-04
 hero: ./images/hero.jpg
 excerpt: About first principles
-secret: false
+secret: true
 ---
 
 ---
