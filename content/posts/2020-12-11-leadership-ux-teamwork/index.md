@@ -1,9 +1,9 @@
 ---
-title: Leading from the back
+title: Lead from the back 
 author: Josh Miller
 date: 2021-04-10
 hero: ./images/hero.jpg
-excerpt: Lessons in teamwork
+excerpt: Teamwork in design
 slug: lead-from-the-back-product-design-and-ux
 secret: false
 ---

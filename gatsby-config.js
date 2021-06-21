@@ -64,5 +64,18 @@ module.exports = {
         trackingId: "UA-66181337-1",
       },
     },
+    {
+      resolve: `gatsby-remark-video`,
+      options: {
+        width: "100%",
+        height: 'auto',
+        preload: 'auto',
+        muted: true,
+        autoplay: true,
+        playsinline: true,
+        controls: true,
+        loop: true,
+      },
+    },
   ],
 };
