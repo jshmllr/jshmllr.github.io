@@ -55,23 +55,15 @@ Developing a user testing plan
 ## Demonstration
 
 An example of a surgery center explainer by our newsroom
-<video controls width="250">
-
-    <source src="/videos/explainer-demo-2.webm"
-            type="video/webm">
-
-    <source src="/videos/explainer-demo-2.webm.mp4"
-            type="video/mp4">
-
-    Sorry, your browser doesn't support embedded videos.
+<video autoplay loop>
+  <source src="/video/explainers-demo-2.mp4" type="video/mp4" />
 </video>
 
 An example of a Marvel Explainer by our graphics department
-<div className="Video">
-  <img
-    src="./videos/explainer-demo.webm"
-  />
-</div>
+<video autoplay loop>
+  <source src="/video/explainers-demo-1.mp4" type="video/mp4" />
+</video>
+
 
 ### Bespoke authoring cms
 
