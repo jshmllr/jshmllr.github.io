@@ -9,11 +9,11 @@ slug: explainers-portfolio-product-prototyping-ux-design
 
 ## How might we tell a better short story that's centered around photos and videos in an immersive digital experience?
 
-- **Timeline**:
-- **Goals**:
-- **Team**:
-- **Role**:
-- **Area of Focus**:    
+- **Timeline**: 1 year
+- **Goals**:  Design a high-impact visual storytelling format that's independent from traditional stories or galleries for the USA TODAY Network's newsrooms.
+- **Team**: Gannett | Storytelling Studio
+- **Role**: UI | UX
+- **Area of Focus**: Design to MVP
 
 ---
 ## Highlighting storytelling
@@ -55,15 +55,12 @@ Developing a user testing plan
 ## Demonstration
 
 An example of a surgery center explainer by our newsroom
-<video autoplay loop>
-  <source src="/video/explainers-demo-2.mp4" type="video/mp4" />
-</video>
+
+`video: ./2020-12-04-portfolio-04/videos/explainers-demo-2.mp4`
 
 An example of a Marvel Explainer by our graphics department
-<video autoplay loop>
-  <source src="/video/explainers-demo-1.mp4" type="video/mp4" />
-</video>
 
+`video: ./videos/explainers-demo.mp4`
 
 ### Bespoke authoring cms
 

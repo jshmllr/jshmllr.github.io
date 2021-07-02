@@ -59,22 +59,23 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-66181337-1",
-      },
-    },
-    {
       resolve: `gatsby-remark-video`,
       options: {
-        width: 700,
-        height: 'auto',
+        width: 800,
+        ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
+        height: 400, // Optional: Overrides optional.ratio 
         preload: 'auto',
         muted: true,
         autoplay: true,
         playsinline: true,
         controls: true,
         loop: true,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-66181337-1",
       },
     },
   ],
