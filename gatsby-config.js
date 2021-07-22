@@ -63,7 +63,6 @@ module.exports = {
       options: {
         width: 800,
         ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
-        height: 400, // Optional: Overrides optional.ratio 
         preload: 'auto',
         muted: true,
         autoplay: true,
