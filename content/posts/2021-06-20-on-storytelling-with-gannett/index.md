@@ -1,10 +1,10 @@
 ---
-title: Gannett
+title: Contributions at Gannett
 author: Josh Miller
-date: 2020-12-01
+date: 2021-06-20
 hero: ./images/hero.jpg
-excerpt: The road to hi-fi is fun and enlightening
-secret: true
+excerpt: Lessons learned
+secret: false
 ---
 
 ## Gannett

@@ -14,7 +14,7 @@ secret: true
 - **Goals**:
 - **Team**:
 - **Role**:
-- **Area of Focus**:    
+- **Area of Focus**:
 
 ---
 ## Highlighting storytelling

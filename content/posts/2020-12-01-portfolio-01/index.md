@@ -3,18 +3,18 @@ title: How In-Depth storytelling transforms the USA TODAY Network's digital jour
 author: Josh Miller
 date: 2020-12-01
 hero: ./images/hero.jpg
-excerpt: On iterative framework design and digital transformation
-slug: portfolio-product-prototyping-ux-design-one
+excerpt: An framework designed to enhance digital storytelling.
+slug: portfolio-ux-product-design-and-prototyping
 secret: true
 ---
 
-## How might we...?
+## How might we enhance digital journalism for Gannett's 200+ newsrooms?
 
-- **Timeline**:
-- **Goals**:
-- **Team**:
-- **Role**:
-- **Area of Focus**:    
+- **Timeline**: >3 Years
+- **Goals**: Elevate digital storytelling, increase subscriber loyalty, encourage subscriber retention, create delightful internal tooling for enhanced experiences on mobile and desktop
+- **Team**: Storytelling Studio
+- **Role**: UI/UX Design
+- **Area of Focus**: UX Research, Product Design, UI Design
 
 ---
 ## Highlighting storytelling

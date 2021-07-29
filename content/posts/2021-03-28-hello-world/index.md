@@ -1,10 +1,10 @@
 ---
-title: On Process
+title: Hello World
 author: Josh Miller
 date: 2021-03-28
 hero: ./images/hero.jpg
 excerpt: Hello world. Is this thing on?
-slug: conquering-the-design-process
+slug: the-making-of-this-garden
 secret: true
 ---
 

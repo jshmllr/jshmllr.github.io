@@ -28,7 +28,7 @@ Explainers are a high-impact visual storytelling format that's independent from 
 - Goals: Provide a solution for the newsrooms to generate high-impact visual stories, enrich the reading experience, retention efforts by measuring recirculation and depth of engagement
 - Team: Storytelling Studio, USA Today Journalists, USA Today Graphics
 - Role: Product Designer, Design Prototyper – one of two designers.
-- Areas of focus: visual design, prototyping, user testing, back-end visual cms authoring design 
+- Areas of focus: visual design, prototyping, user testing, back-end visual cms authoring design
 
 ## Background
 
@@ -53,15 +53,9 @@ Developing a user testing plan
 
 ## Demonstration
 
-An example of a surgery center explainer by our newsroom
+Check out the live link here: [Surgery Center Explainer](https://www.usatoday.com/explainer/surgerycenter/18/)
 
-<video></video>
-
-`video: https://github.com/jshmllr/jshmllr.github.io/blob/master/content/posts/2020-12-04-portfolio-04/videos/explainers-demo-2.mp4`
-
-An example of a Marvel Explainer by our graphics department
-
-`video: ./videos/explainers-demo.mp4`
+`video: https://www.youtube.com/embed/2Xc9gXyf2G4`
 
 ### Bespoke authoring cms
 
@@ -72,7 +66,7 @@ We tracked iterations and prepared the MVP for progressive enhancement
 
 Eventually AMP Stories became adopted by the content and editorial teams <https://www.ampproject.org/docs/design/visual_story>
 
-### See examples here
+### See all examples here
 
 - <https://www.usatoday.com/explainer/parkland-survivors-march-florida-capitol/19/>
 - <https://www.usatoday.com/explainer/the-evoloution-of-barbie/27/>

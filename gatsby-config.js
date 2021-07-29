@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://jshmllr.com`,
     description: `Design plus code better known on the internet as JshMllr`,
     hero: {
-      heading: `Your process isn't the same without a leader in product design and prototyping. I can help with that.`,
+      heading: `Your UX process isn't the same without a leader in product design and prototyping. I can help with that.`,
       maxWidth: 652,
     },
     social: [
@@ -56,19 +56,6 @@ module.exports = {
     {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
-      },
-    },
-    {
-      resolve: `gatsby-remark-video`,
-      options: {
-        width: 800,
-        ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
-        preload: 'auto',
-        muted: true,
-        autoplay: true,
-        playsinline: true,
-        controls: true,
-        loop: true,
       },
     },
     {
