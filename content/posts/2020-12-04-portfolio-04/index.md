@@ -80,5 +80,6 @@ But, this wasn't a complete failure; because now we have an opportunity to creat
 See that case study here: [In-Depth](https://url.com)
 
 ---
+
 Thanks for reading!
-Get in touch @ [joshua@jshmllr.com](mailto:joshua@jshmllr.com)
+Get in touch 👉🏻 [joshua@jshmllr.com](mailto:joshua@jshmllr.com)
