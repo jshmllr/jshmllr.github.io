@@ -49,7 +49,7 @@ Exclusive video content Reporting notebook features Audio versions of stories An
 Related:
 Copywriting for UX DocumentCloud In-Depth GUP New Checkout
 GIL-3842 - Extras for subscribers CLOSED
-   
+
 From here, if a reader is registered, we might signal them to continue to sign up...
 For subscribers, we'll add a label to items also reinforcing the added value of the features they're receiving.
 For the offering, we'll split the demonstrations into two segments of offering a bundle of features as well as just offering one feature to unlock.

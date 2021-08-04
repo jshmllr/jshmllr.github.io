@@ -3,7 +3,7 @@ title: Explainers, a portfolio piece on failure.
 author: Josh Miller
 date: 2020-12-04
 hero: ./images/hero.jpg
-excerpt: A visual storytelling framework that once was.
+excerpt: A visual storytelling framework.
 slug: explainers-portfolio-product-prototyping-ux-design
 ---
 

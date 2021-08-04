@@ -3,11 +3,11 @@ title: Contributions at Gannett
 author: Josh Miller
 date: 2021-06-20
 hero: ./images/hero.jpg
-excerpt: Lessons learned
+excerpt: Learning as we go
 secret: false
 ---
 
-## Gannett
+## Gannett and elevating storytelling
 
 During my time with Gannett (the USA TODAY Network), I've worked on numerous projects with the Storytelling Studio. Most notably, I worked with the Storytelling Studio (formerly Gannett's Innovation Lab) on redesigning and relaunching longform content with a a few twists. The first being that we wanted to support more storyforms that longform including short-form, support photojournalism, list making, and varying story archs all while giving out. So, instead we created a framework that enhcna (in the form of building new features, such as password-protected shared links) and marketing efforts. Additionally, I helped lead the engineering efforts to build the marketing pages for Dropbox Pro.
 
@@ -18,5 +18,6 @@ Our small “blue sky” growth team to explores how we might foster increased a
 In my final year at the company, I joined the Web Infrastructure team as a Design Engineer to work on Design Systems. I had spent all my tenure at Dropbox maintaining a suite of design tools, so was able to provide historical knowledge and engineering principles to address inconsistencies in both the design and implementation of many product surfaces. The result of my work was Scooter, an open-source (S)CSS framework and design system adopted by several product teams to speed up their work.
 
 ---
-Thanks for reading! 
-Get in touch @ [joshua@jshmllr.com](mailto:joshua@jshmllr.com)
+
+Thanks for reading!
+Get in touch 👉🏻 [joshua@jshmllr.com](mailto:joshua@jshmllr.com)
