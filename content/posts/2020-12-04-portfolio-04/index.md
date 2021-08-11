@@ -36,7 +36,7 @@ We also knew that based on former data readers enjoyed short form contact that t
 
 Check out the ➔ [Competitive Analysis](https://docs.google.com/presentation/d/1SLhyRhvDPP7mruFVfnaTWSM6R6jVo5oouajxVRvkpaA/edit?usp=sharing "Google Slides competitive analysis") of common slideshow tools and card based tooling as preliminary research.
 
-**Example of current newsroom slideshow presentation to convey information**
+### *Example of current newsroom slideshow presentation to convey information
 
 <div className="Image__Small">
   <img
@@ -85,11 +85,8 @@ We interviewed several key stakeholders helping us mold and shape the future of 
 
 > I wish I could change the template after I choose it. Sometimes the image of words don’t display as intended in that template and I want to try something else. - Quote from internal user
 
-> This may be over-complicating things, but it would be great if the text boxes that sit on top of a photo had an opacity slider. Some of the text got hard to read when a portion of the background was white-ish with white text on top. - Quote from internal user
-
-
-I then set up a user testing session using usertesting.com.
-It was designed for our MVP to decide what is the minimum amount of UI that will allow the content to be found and effectively communicate to the user? This addressed the UX principle of Occam’s Razor.
+I then set up an unmoderated recorded usability study on usertesting.com.
+Participants were be given scenarios and asked to employ the “think-out-loud” protocol while using a prototype to complete tasks. It was designed to answer what is the minimum amount of UI that will allow the content to be found and effectively communicate to the user addressing the UX principle of Occam’s Razor.
 
 Eventually the qualitative feedback paired with the cost of maintenance for a waning platform, Explainers were sunset. The adoption and audience participation just weren't what was expected. They also weren't native to the CMS. Soon, AMP Stories were adopted by the content and editorial teams <https://www.ampproject.org/docs/design/visual_story>
 

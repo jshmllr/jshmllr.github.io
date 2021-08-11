@@ -14,9 +14,10 @@ After the initial launch of the new framework, our team was bent on growth throu
 
 Our small “blue sky” growth team to explores how we might foster increased adoption of things like social sharing, reader commenting, newsletter subscriptions, and more. The most successful project to emerge was the addition of our In-Depth Index. Facilitated through the knowledge gained from user testing and research, we increased awareness of internal kpis, raised the bar for visual production, just as we had hoped, and unlocked possibilities for other sister teams to build richer, more reader-centric experiences.
 
-## The Project List:
+## The Project List
+
 - The Pulse/ Detroit Now: an experimental mobile first news experience
-- In-Depth: a storytelling framework with 3+ years of support enhancing digital experiences and presentations 
+- In-Depth: a storytelling framework with 3+ years of support enhancing digital experiences and presentations
 - Collections: A custom mobile-first CMS to create curated lists in a flat-file structure for the 50 States project
 - Explainers: highly impactful visual story framework with a custom builder
 - Quizzes: weekly news quiz platform
@@ -28,7 +29,7 @@ Our small “blue sky” growth team to explores how we might foster increased a
 - TigerTiles: a 2048 game for the Detroit Freep Newsroom
 - Here & Now: a progressive prototype that leveraged localization data to encourage engagement
 - WriteAway: an interactive virtual assistant that hooked into the CMS
-- Mosaic: a framework designed for short-form blog-type content 
+- Mosaic: a framework designed for short-form blog-type content
 - Storystacks: an interactive timeline designed for highlight a storyarch
 
 While many remain in development, many are sunset due to lack of demand or overall cost to support.

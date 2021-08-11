@@ -19,7 +19,7 @@ Some additional examples include:
 - Test usability in the field
 - Refine your value proposition
 
-## In the remote world, you might only get particual context of the user environment.
+## In the remote world, you might only get particual context of the user environment
 
 Because of this, you'll want to be sure to purposefully address blind areas. One supplement that I've had success with is asking for screenshots of the computer environment and a photo of the user environment like their desk area. What this allows you to do remotely is gain a better understanding for a more accurate empathy map.
 

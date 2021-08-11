@@ -39,7 +39,6 @@ Additional questions to answer include:
 
 ## Designing within the User Flow & Consumer Funnel
 
-B
 Looking at the user flow and our consumer funnel it appears that our recurring audience would be the target for this case study.
 
 Recurring readers are already exposed to the USA Today Network brand and visit our site at least a couple of times a week. By Jakob's UX Law where users will transfer expectations they have built around one familiar product to another that appears similar, we can capitalize on their mental model of a paywall as well as improve upon the experience. Product just launched a new payment page too which will be an added benefit to our experience for the moment as our reader will most likely have to leave our story to sign up if not already. One way we might capitalize on our reader's framing effect bias is by presenting the decision to unlock these features with options based on whether the options are presented with positive or negative connotations; e.g. as a loss or as a gain. The framing effect states that people tend to avoid risk when a positive frame is presented but seek risks when a negative frame is presented. We might also be able to introduce a loss aversion mechanism where we let readers try out a new feature before investing in it.
