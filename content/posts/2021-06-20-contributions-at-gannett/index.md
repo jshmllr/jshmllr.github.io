@@ -1,5 +1,5 @@
 ---
-title: Contributions at Gannett
+title: Contributions at Gannett | USA TODAY Network
 author: Josh Miller
 date: 2021-08-10
 hero: ./images/hero.jpg
