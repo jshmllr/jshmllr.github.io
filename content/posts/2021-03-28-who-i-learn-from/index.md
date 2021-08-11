@@ -1,15 +1,14 @@
 ---
-title: Who I Learn From
+title: A Garden of UX Resources
 author: Josh Miller
 date: 2021-03-28
 hero: ./images/hero.jpg
-excerpt: A garden of UX resources
-secret: false
+excerpt: Theories, frameworks, and more 
 ---
 
 ---
 
-## An HCI degree in one post
+## Some of my favorite resources for learning
 
 Last updated 2021-07-22
 
@@ -28,17 +27,19 @@ UX Practices:
 - [Jon Kolko | Writings](http://www.jonkolko.com/index.php)
 - [Jon Kolko | Design Synthesis](https://vimeo.com/3945848)
 - [Justin Threlkeld | Cooking Up Design Research](https://www.notion.so/Cooking-up-design-research-6c42cd04b2b240ef8093e6ca2deb146b)
+- [Sprint](https://www.thesprintbook.com/)
+- [User Experience Team of One](https://smile.amazon.com/User-Experience-Team-One-Research/dp/1933820187)
 
 Design Communities:
 
 - Interface Lovers is a magazine featuring designers with diverse personal and industry backgrounds: <https://www.loversmagazine.com>
 - The Futur: <https://thefutur.com/>
 
-User Psychology & Human Awareness:
+Psychology & Human Awareness:
 
 - [Design for Cognitive Bias](https://abookapart.com/products/design-for-cognitive-bias "Design for Cognitive Bias")
 
-Case Studies:
+Inspirational Case Studies:
 
 - [Future of Information](http://futureofinformation.com)
 - [Aetherpoint](https://www.aetherpoint.com/writing/)

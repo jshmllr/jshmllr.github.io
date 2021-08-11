@@ -2,7 +2,7 @@
 title: Performing UX Field Studies in a Remote World
 author: Josh Miller
 date: 2021-07-30
-hero: ./images/hero.png
+hero: ./images/hero.jpg
 excerpt: On remote research.
 slug: remote-ux-research-field-studies
 ---
