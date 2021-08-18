@@ -6,13 +6,13 @@ hero: ./images/hero.jpg
 excerpt: Learning as we go
 ---
 
-## Gannett and elevating storytelling
+## Elevating digital storytelling
 
 During my time with Gannett (the USA TODAY Network), I've worked on numerous projects with the Storytelling Studio. Most notably, I worked with the Storytelling Studio (formerly Gannett's Innovation Lab) on redesigning and relaunching longform content with a a few twists. The first being that we wanted to support more storyforms than longform. This includes short-form stories, visually impactful stories, timeline frameworks, quiz tooling, photojournalist tooling, collective lists curation and creation, and varying story archs. So, instead we created a framework that enhanced digital storytelling. 
 
 After the initial launch of the new framework, our team was bent on growth through reciruclation and looking at funnel acquisition methods. We've spent much time experimenting with new methods for audience engagement, audience growht, and testing to fine tune the reader experience. We saw a direct and substantial positive impact on subscriptions and engagements through our improvements.
 
-Our small “blue sky” growth team to explores how we might foster increased adoption of things like social sharing, reader commenting, newsletter subscriptions, and more. The most successful project to emerge was the addition of our In-Depth Storytelling Studio+. Facilitated through the knowledge gained from user testing and research, we increased awareness of internal kpis, raised the bar for visual production, just as we had hoped, and unlocked possibilities for other sister teams to build richer, more reader-centric experiences.
+Our small bespoke dev lab explores how we might improve or reimagine network storytelling and foster increased adoption of things for audience members like social sharing, reader engagement, newsletter subscriptions, gamification, and more. The most successful project to emerge in the past few years was the addition of In-Depth Storytelling Studio+. Facilitated through the knowledge gained from user testing and research, we increased awareness of internal kpis, raised the bar for visual production just as we had hoped, and unlocked possibilities for other sister teams to build richer, more reader-centric experiences.
 
 ## The Project List
 
