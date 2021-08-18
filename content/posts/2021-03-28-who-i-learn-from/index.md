@@ -18,6 +18,9 @@ Theory & Frameworks:
 - [Tiny Habits by BJ Fogg](https://tinyhabits.com "Tiny Habits")
 - [BJ Fogg's Behavioral Model](https://behaviormodel.org "Behavioral Model")
 - [Hooked: How to Build Habit-Forming Products by Nir Eyal](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788 "Hooked")
+- [Farnam Street](https://fs.blog/mental-models/ "Mental Models")
+- [Jorge Arango | Systems Thinking](https://us12.campaign-archive.com/home/?u=7ed59837ed5cc64f58fa915f2&id=516545fd5a "Clarity and Alignment to UX Design Projects")
+- [Luke Wroblewski](https://www.lukew.com/ff/ "Luke W")
 
 UX Practices:
 
@@ -46,7 +49,7 @@ Inspirational Case Studies:
 - [Artifacts.fyi](http://artifacts.fyi)
 - [Christoph Labacher](https://christophlabacher.com/about)
 
-Lastly, study the niche you're working in. If you're wanting to design software in the finance world, be in the finance world as much as possible by reading about their problems, customer acquisition methods, customer behaviors, revenue models, and the overall history of the industry.
+Advice for learning and using resources, study the niche you're working in but don't forget to cross domains as the application. If you're wanting to design software in the finance world, be in the finance world as much as possible by reading about their problems, customer acquisition methods, customer behaviors, revenue models, and the overall history of the industry.
 
 ---
 

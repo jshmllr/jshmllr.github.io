@@ -17,9 +17,9 @@ slug: portfolio-extras-for-subscribers-ux
 
 ---
 
-## Background 
+## Background
 
-Gannett’s charge for the year of 2021 is that of subscriber acquisition. Extras for subscribers is an exercise focused on showcasing how the Storytelling Studio might test a hypothesis surrounding additional value for our readers as well as clearly articulating the problem and gaining alignment with stakeholders. 
+Gannett’s charge for the year of 2021 is that of subscriber acquisition. Extras for subscribers is an exercise focused on showcasing how the Storytelling Studio might test a hypothesis surrounding additional value for our readers as well as clearly articulating the problem and gaining alignment with stakeholders.
 
 At times editorial staff creates additional content that isn’t included in a main article and may be linked out using hyperlinks or call to actions. This isn't an ideal experience for reader engagmeent; because, it takes an audience member out of the main article experience. The purpose of extra pieces is to provide context and anscilary information about a story for audiences. However, these extra pieces are often overlooked by our scan-to-read audience. *The opportunity lies in the monetization of these extra features while simultaneously elevating a singular story's perceived higher value.*
 
@@ -68,20 +68,11 @@ An enhanced experience as any story that includes features which help the reader
 For consideration Extras include:
 Exclusive video content Reporting notebook features Audio versions of stories Anything else related to behind the scenes coverage
 
-
 From here, if a reader is registered, we might signal them to continue to sign up...
 For subscribers, we'll add a label to items also reinforcing the added value of the features they're receiving.
 For the offering, we'll split the demonstrations into two segments of offering a bundle of features as well as just offering one feature to unlock.
 
 In case you missed it ➔ [Check out the prototype here](https://www.figma.com/proto/pGwkkD4ymgxBzZtSiJKQ4w/InDepth_CTA-Extras?page-id=60%3A45&node-id=382%3A877&viewport=574%2C203%2C0.13767579197883606&scaling=scale-down&starting-point-node-id=382%3A877 "Extras for Subscribers Prototype")
-
----
-
-### Additional metrics or accomplishments can go here
-
-- Item
-- Item
-- Item
 
 ---
 
