@@ -3,7 +3,7 @@ title: Removing Cognitive Bias in your Design Process
 author: Josh Miller
 date: 2021-03-22
 hero: ./images/hero.jpg
-excerpt: recognizing what's true
+excerpt: Recognizing what's true
 secret: false
 ---
 

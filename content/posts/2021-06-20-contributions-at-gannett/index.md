@@ -8,7 +8,7 @@ excerpt: Learning as we go
 
 ## Elevating digital storytelling
 
-During my time with Gannett (the USA TODAY Network), I've worked on numerous projects with the Storytelling Studio. Most notably, I worked with the Storytelling Studio (formerly Gannett's Innovation Lab) on redesigning and relaunching longform content with a a few twists. The first being that we wanted to support more storyforms than longform. This includes short-form stories, visually impactful stories, timeline frameworks, quiz tooling, photojournalist tooling, collective lists curation and creation, and varying story archs. So, instead we created a framework that enhanced digital storytelling. 
+During my time with Gannett (the USA TODAY Network), I've worked on numerous projects with the Storytelling Studio—formerly Gannett's Innovation Lab. Most notably, I worked on redesigning and relaunching longform content with a few twists. The first being that we wanted to support more storyform forms than longform. This includes short-form stories, visually impactful stories, timeline frameworks, quiz tooling, photojournalist tooling, collective lists curation and creation, and experiments around varying story archs. So, instead we created a framework that enhanced digital storytelling. 
 
 After the initial launch of the new framework, our team was bent on growth through reciruclation and looking at funnel acquisition methods. We've spent much time experimenting with new methods for audience engagement, audience growht, and testing to fine tune the reader experience. We saw a direct and substantial positive impact on subscriptions and engagements through our improvements.
 
