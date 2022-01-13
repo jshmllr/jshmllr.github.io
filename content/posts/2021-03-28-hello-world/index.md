@@ -3,8 +3,8 @@ title: Hello World
 author: Josh Miller
 date: 2021-03-28
 hero: ./images/hero.jpg
-excerpt: Hello world. Is this thing on?
-slug: the-making-of-this-garden
+excerpt: Is this thing on?
+slug: the-making-of-this-ux-product-design-garden
 secret: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Extras for Subscribers, a portfolio piece on transactional value.
+title: Extras for subscribers, a portfolio piece on transactional value.
 author: Josh Miller
 date: 2021-07-30
 hero: ./images/hero.jpg

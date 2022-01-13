@@ -1,7 +1,7 @@
 ---
 title: Contributions at Gannett | USA TODAY Network
 author: Josh Miller
-date: 2021-08-10
+date: 2021-10-31
 hero: ./images/hero.jpg
 excerpt: Learning as we go
 ---

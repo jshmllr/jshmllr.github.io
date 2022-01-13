@@ -1,7 +1,7 @@
 ---
 title: A Garden of UX Resources
 author: Josh Miller
-date: 2021-03-28
+date: 2022-01-13
 hero: ./images/hero.jpg
 excerpt: Theories, frameworks, and more 
 ---

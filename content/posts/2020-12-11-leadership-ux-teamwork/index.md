@@ -25,7 +25,7 @@ Without question, growing up and playing the game of soccer, goalies often recei
 
 When the game is happening, the rhythm of the ball being maneuvered back and forth passed between players a good goalie possesses a watchful eye—ever vigilant—and is on her toes should the offense move onto her team's half of the field.
 
-## Great goalies are decisive
+## Great goalies are decisive and earn respect
 
 They know when it’s important to give their team a break and when to let the offensive team push forward a bit. But, defense is as much preventative as it is battling back. If you ever watch a professional match you’ll see how the defensive players along with the goalie will swing the ball from one side of the field to the other to try to create a different momentum. Then, when the time is right, the goalie and the whole team move forward together with the ball. Should they be lucky enough to score, you’ll be able to trace game film all the way back to when the goalie first touched the ball.
 
