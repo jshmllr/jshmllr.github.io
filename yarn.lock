@@ -2700,11 +2700,11 @@ async-limiter@~1.0.0:
   version "1.0.1"
   resolved "https://registry.npmjs.org/async-limiter/-/async-limiter-1.0.1.tgz"
 
-async-mutex@^0.2.4:
-  version "0.2.4"
-  resolved "https://registry.npmjs.org/async-mutex/-/async-mutex-0.2.4.tgz"
+async-mutex@^0.3.0:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/async-mutex/-/async-mutex-0.3.2.tgz#1485eda5bda1b0ec7c8df1ac2e815757ad1831df"
   dependencies:
-    tslib "^2.0.0"
+    tslib "^2.3.1"
 
 async-retry-ng@^2.0.1:
   version "2.0.1"
@@ -4892,6 +4892,12 @@ debug@^3.0.0, debug@^3.1.0, debug@^3.1.1, debug@^3.2.5, debug@^3.2.6:
   dependencies:
     ms "^2.1.1"
 
+debug@^4.3.4:
+  version "4.3.4"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.4.tgz#1319f6579357f2338d3337d2cdd4914bb5dcc865"
+  dependencies:
+    ms "2.1.2"
+
 debug@~4.1.0:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/debug/-/debug-4.1.1.tgz#3b72260255109c6b589cee050f1d516139664791"
@@ -5384,6 +5390,10 @@ dot-prop@^5.2.0:
   resolved "https://registry.npmjs.org/dot-prop/-/dot-prop-5.3.0.tgz"
   dependencies:
     is-obj "^2.0.0"
+
+dotenv@^10.0.0:
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-10.0.0.tgz#3d4227b8fb95f81096cdd2b66653fb2c7085ba81"
 
 dotenv@^8.2.0:
   version "8.2.0"
@@ -11041,17 +11051,17 @@ netlify-cms-locales@^1.18.3:
   version "1.18.3"
   resolved "https://registry.npmjs.org/netlify-cms-locales/-/netlify-cms-locales-1.18.3.tgz"
 
-netlify-cms-proxy-server@^1.1.4:
-  version "1.3.6"
-  resolved "https://registry.npmjs.org/netlify-cms-proxy-server/-/netlify-cms-proxy-server-1.3.6.tgz"
+netlify-cms-proxy-server@^1.3.24:
+  version "1.3.24"
+  resolved "https://registry.yarnpkg.com/netlify-cms-proxy-server/-/netlify-cms-proxy-server-1.3.24.tgz#4d15031287f505b0f8882cabe92ca9b72c4f0caf"
   dependencies:
     "@hapi/joi" "^17.0.2"
-    async-mutex "^0.2.4"
+    async-mutex "^0.3.0"
     cors "^2.8.5"
-    dotenv "^8.2.0"
+    dotenv "^10.0.0"
     express "^4.17.1"
     morgan "^1.9.1"
-    simple-git "^2.0.0"
+    simple-git "^3.0.0"
     what-the-diff "^0.6.0"
     winston "^3.3.3"
 
@@ -14511,13 +14521,13 @@ simple-get@^4.0.0:
     once "^1.3.1"
     simple-concat "^1.0.0"
 
-simple-git@^2.0.0:
-  version "2.21.0"
-  resolved "https://registry.npmjs.org/simple-git/-/simple-git-2.21.0.tgz"
+simple-git@^3.0.0:
+  version "3.16.0"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.16.0.tgz#421773e24680f5716999cc4a1d60127b4b6a9dec"
   dependencies:
     "@kwsites/file-exists" "^1.1.1"
     "@kwsites/promise-deferred" "^1.1.1"
-    debug "^4.1.1"
+    debug "^4.3.4"
 
 simple-swizzle@^0.2.2:
   version "0.2.2"
@@ -15818,6 +15828,10 @@ tslib@^2.0.0, tslib@~2.0.1:
 tslib@^2.0.3:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.1.tgz#0d0bfbaac2880b91e22df0768e55be9753a5b17e"
+
+tslib@^2.3.1:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.5.0.tgz#42bfed86f5787aeb41d031866c8f402429e0fddf"
 
 tsutils@^3.17.1:
   version "3.17.1"
