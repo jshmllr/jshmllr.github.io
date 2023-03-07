@@ -15915,8 +15915,8 @@ typography@^0.16.19:
     typography-normalize "^0.16.19"
 
 ua-parser-js@^0.7.18:
-  version "0.7.22"
-  resolved "https://registry.npmjs.org/ua-parser-js/-/ua-parser-js-0.7.22.tgz"
+  version "0.7.34"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.34.tgz#afb439e2e3e394bdc90080acb661a39c685b67d7"
 
 uc-first-array@^1.1.10:
   version "1.1.10"
