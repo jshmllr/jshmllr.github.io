@@ -33,11 +33,6 @@ The defenders, halfbacks, and strikers who get a lot of the glory receive a lot 
 
 We often tend to feel our work is tough, but we should see our teammates too.
 
-As a teammate, strive for empathy
-Put yourself in your teammates' shoes
-Understand their perspective
-Understand where they are coming from
-
 ---
 Thanks for reading!
 Get in touch @ [joshua@jshmllr.com](mailto:joshua@jshmllr.com)
